@@ -1,0 +1,13 @@
+{
+  "name": "vertical list",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k260nyxq9v",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-beautiful-dnd": "5.0.0",
+    "react-dom": "16.0.0"
+  }
+}
