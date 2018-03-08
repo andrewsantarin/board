@@ -14,17 +14,17 @@ function getRandomInt(min, max) {
 
 const names = [
   'Andrew Santarin',
-  'Holm Schimanski',
-  'Icke Sam',
-  'Kimmy Sam',
-  'Sese Hein',
-  'Samia Yousuf',
-  'Nur Haniza',
-  'Stefan Marwah',
-  'Christine Santarin',
+  'Clover Fields',
+  'Him Possible',
+  'Run Stoppable',
+  'Terminator-8K',
+  'Ho Lee Kao',
+  'Joyce Will',
+  'Shaq Tee',
+  'Maria Santa Maria',
   'Kaji Tetsushi',
-  'Moses 3K',
-  'Jesus Superstar',
+  'Hoth Shot',
+  'Ima Superstar',
 ];
 
 const today = moment();
