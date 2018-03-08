@@ -74,7 +74,6 @@ export class ItemContent extends Component {
 
 const mapStateToProps = (state, props) => ({
   item: state.board.items[props.itemId],
-  item2: state.board.items[16],
 });
 const mapDispatchToProps = {};
 
@@ -82,11 +81,6 @@ ItemContent = connect(
   mapStateToProps,
   mapDispatchToProps
 )(ItemContent);
-
-
-
-
-
 
 export class Item extends PureComponent {
   render() {
